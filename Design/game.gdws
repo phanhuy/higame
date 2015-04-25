@@ -1,0 +1,64 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "game">
+	<OpenFiles
+		CID = "1"
+		LastActive = "2">
+		<File
+			FileID = "CF6DA910-7C97-4120-A96B96F5E5D7DB0C"
+			RootPath = "$Container"
+			RelativePathname = "start.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "6684BCC0-D882-469F-BE3478399CDD8DC7"
+			RootPath = "$Container"
+			RelativePathname = "instruction-middle.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "B0412EF1-6123-41B8-AAED66FA35009A65"
+			RootPath = "$Container"
+			RelativePathname = "instruction-end.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "C48FEB2B-CB9D-4BA3-9E12488DF413770F"
+			RootPath = "$Container"
+			RelativePathname = "loading-screen.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "1919A11F-FE83-46C4-B8FCEEF78025ABA6"
+			RootPath = "$Container"
+			RelativePathname = "pause.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "CF758D9A-D6ED-441B-A7E4C924F20C62D5"
+			RootPath = "$Container"
+			RelativePathname = "error-screen.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "F2775ABD-E2EF-40AA-9171E9DF92235440"
+			RootPath = "$Container"
+			RelativePathname = "instruction.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "99B03C56-00DB-4C29-B8CEAB37DDB30A23"
+			RootPath = "$Container"
+			RelativePathname = "game-over.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "54C2AFE2-DF7E-428F-BBC1C3E7E11805AE"
+			RootPath = "$Container"
+			RelativePathname = "comfirm\confirm.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "80C68500-88B6-4C18-B1AA0D8860AED9C8"
+			RootPath = "$Container"
+			RelativePathname = "main.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "5559AFE7-F7EB-4DC4-9CA7EB73AD95F569"
+			RootPath = "$Container"
+			RelativePathname = "setting.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

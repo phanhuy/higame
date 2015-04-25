@@ -1,0 +1,871 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "0292989A-AA81-49E2-86F96D57FD4B5B7C"
+			RelativePath = "Start.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Start.png"/>
+		<FileInfo
+			ID = "033D9142-3681-4A8D-A94E8E1E96F42EDB"
+			RelativePath = "Nguoi tha bong.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Nguoi tha bong.png"/>
+		<FileInfo
+			ID = "0CAB67FC-87A6-495A-91A19FD40CD520D1"
+			RelativePath = "game.autosaving"
+			OriginalRoot = "$Project"
+			OriginalPath = "game.autosaving"/>
+		<FileInfo
+			ID = "0F09CCE1-56DE-4529-873505BC7A4262C5"
+			RelativePath = "instruction\instruction1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\instruction1.png"/>
+		<FileInfo
+			ID = "105AFC85-C4A5-4349-BA9830E096337064"
+			RelativePath = "icons\setting-clicked.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\setting-clicked.png"/>
+		<FileInfo
+			ID = "125375DA-F373-43B0-BEAE897ACBE1A48F"
+			RelativePath = "2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "2.png"/>
+		<FileInfo
+			ID = "132DD8FC-F0BF-4C8D-9155CC200613F2A2"
+			RelativePath = "instruction\1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\1.png"/>
+		<FileInfo
+			ID = "1845C71B-DC91-4A66-83A699A8A6F9E208"
+			RelativePath = "ball1.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "ball1.jpg"/>
+		<FileInfo
+			ID = "18AB8F73-8EE5-453B-B82D57E0A5627D08"
+			RelativePath = "setting\balls setting error.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\balls setting error.png"/>
+		<FileInfo
+			ID = "1919A11F-FE83-46C4-B8FCEEF78025ABA6"
+			RelativePath = "pause.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "pause.gui"/>
+		<FileInfo
+			ID = "194474E5-571D-4A75-B4028541783607A8"
+			RelativePath = "start\setting.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\setting.png"/>
+		<FileInfo
+			ID = "1B85D814-B6BA-4D1D-A787CA7FEE7C5F53"
+			RelativePath = "backward-foreward\back-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "backward-foreward\back-icon.png"/>
+		<FileInfo
+			ID = "1C891A3C-9A56-4D31-8CFAB76076970784"
+			RelativePath = "error\0.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "error\0.png"/>
+		<FileInfo
+			ID = "1DA09D1D-BF2D-41DC-A914D87FFA88ACE1"
+			RelativePath = "setting\setting-bg.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\setting-bg.png"/>
+		<FileInfo
+			ID = "20B9A5AD-DD10-40BE-87831DC72E6D02F1"
+			RelativePath = "start\Setting-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\Setting-icon.png"/>
+		<FileInfo
+			ID = "21138ADD-1922-430E-B1D57A5FE382C714"
+			RelativePath = "setting\ui.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\ui.png"/>
+		<FileInfo
+			ID = "24C64039-8DAC-4C09-8BDD3D907D044CD0"
+			RelativePath = "icons\go-back (2) - Copy.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\go-back (2) - Copy.png"/>
+		<FileInfo
+			ID = "25CD9B9F-8457-4B21-A42DF8B1BE42A434"
+			RelativePath = "bbg.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "bbg.png"/>
+		<FileInfo
+			ID = "2726B98B-4662-42D1-A88F49F0D53C58E9"
+			RelativePath = "vathung2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "vathung2.png"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "27AE17CD-BF4D-47F4-B9074A0641E3C6B4"
+			RelativePath = "pause\menu-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "pause\menu-icon.png"/>
+		<FileInfo
+			ID = "2AF98CA6-BC25-4412-91AF86E78867190D"
+			RelativePath = "icons\btn-bg.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\btn-bg.png"/>
+		<FileInfo
+			ID = "2E65B242-8F04-42EB-89EAAC86969BDED6"
+			RelativePath = "icons\play.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\play.png"/>
+		<FileInfo
+			ID = "2F129EE3-5C71-4EAD-8AE0848DFCAD7C8C"
+			RelativePath = "popup-bg.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "popup-bg.png"/>
+		<FileInfo
+			ID = "33EF5F61-D743-4CA8-A1FB3486A30D3C3E"
+			RelativePath = "setting\popup.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\popup.png"/>
+		<FileInfo
+			ID = "36BC0B71-A523-4214-8E8A48AA4A24DA6A"
+			RelativePath = "comfirm\close.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "comfirm\close.png"/>
+		<FileInfo
+			ID = "398D49EB-1FAB-4CBD-92861790E1A2F684"
+			RelativePath = "instruction\instruction.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\instruction.png"/>
+		<FileInfo
+			ID = "3E45109C-264A-481B-B70823733EA385AF"
+			RelativePath = "green line border.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "green line border.jpg"/>
+		<FileInfo
+			ID = "3E472235-FA5B-4243-8332D7E90B614466"
+			RelativePath = "setting\go-back-clicked.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\go-back-clicked.png"/>
+		<FileInfo
+			ID = "3EDE2A80-964B-4FC8-A3FC0BEC3E7CB024"
+			RelativePath = "game-over\star-bad.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "game-over\star-bad.png"/>
+		<FileInfo
+			ID = "3EFA9E3D-E0CA-47F3-9F62BEA71E204BFD"
+			RelativePath = "game-over\xephang.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "game-over\xephang.png"/>
+		<FileInfo
+			ID = "3F565236-7DC7-46B5-A2CEF31DE19C9260"
+			RelativePath = "start\2a.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\2a.png"/>
+		<FileInfo
+			ID = "4473A452-6110-4276-9162774689399F21"
+			RelativePath = "bong1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "bong1.png"/>
+		<FileInfo
+			ID = "448BC6B0-0769-4997-8DA03DBEF00A9E6F"
+			RelativePath = "comfirm\confirm-Q2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "comfirm\confirm-Q2.png"/>
+		<FileInfo
+			ID = "45EBF52C-117B-49F2-8E9586C7202F6196"
+			RelativePath = "icons\pause2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\pause2.png"/>
+		<FileInfo
+			ID = "486442FA-AD85-45F4-87BCDF7A0C5ED50D"
+			RelativePath = "icons\loading.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\loading.png"/>
+		<FileInfo
+			ID = "49CAD66E-1898-47E5-BB184A8686986CEF"
+			RelativePath = "icons\play-clicked.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\play-clicked.png"/>
+		<FileInfo
+			ID = "4A20441A-55E8-4EAD-9A255308973FE22E"
+			RelativePath = "setting\description.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\description.png"/>
+		<FileInfo
+			ID = "4A71A3AF-B79B-49A1-AE1825C04A91B723"
+			RelativePath = "instruction\back1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\back1.png"/>
+		<FileInfo
+			ID = "4A854EFA-D7E7-4A5A-975C7A9AAC514A0B"
+			RelativePath = "icons\mute-clicked.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\mute-clicked.png"/>
+		<FileInfo
+			ID = "4C067E2B-421C-4304-9BDFA4541FBDA5BE"
+			RelativePath = "instruction\instruction3.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\instruction3.png"/>
+		<FileInfo
+			ID = "4F38C74B-16D3-4F29-AEDA296A3E49B9DC"
+			RelativePath = "comfirm\main-new.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "comfirm\main-new.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "4FD6D000-59D0-4D1F-AAFEA711DF42D47D"
+			RelativePath = "icons\animated_loading_icon.gif"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\animated_loading_icon.gif"/>
+		<FileInfo
+			ID = "4FF7304D-5BBF-49C3-B8B58A09E0C175E9"
+			RelativePath = "instruction-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction-icon.png"/>
+		<FileInfo
+			ID = "5121E5BB-356E-4736-BDEEF1D07AC64829"
+			RelativePath = "game-over\kq.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "game-over\kq.png"/>
+		<FileInfo
+			ID = "515F79BD-9CAB-4161-AA0CCA9D539A5B64"
+			RelativePath = "play-main\confirm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "play-main\confirm.gui"/>
+		<FileInfo
+			ID = "51E4B1B5-397B-48F5-B1B7DDDCC2410389"
+			RelativePath = "icons\loading_orange.gif"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\loading_orange.gif"/>
+		<FileInfo
+			ID = "53605C99-3D83-4F6E-98A1F1ED90FA81F6"
+			RelativePath = "game-over\menu-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "game-over\menu-icon.png"/>
+		<FileInfo
+			ID = "54C2AFE2-DF7E-428F-BBC1C3E7E11805AE"
+			RelativePath = "comfirm\confirm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "comfirm\confirm.gui"/>
+		<FileInfo
+			ID = "54ED2377-A86E-4384-ACF2FEE45003C9A4"
+			RelativePath = "error\error.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "error\error.png"/>
+		<FileInfo
+			ID = "5559AFE7-F7EB-4DC4-9CA7EB73AD95F569"
+			RelativePath = "setting.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting.gui"/>
+		<FileInfo
+			ID = "56CB5DD9-74D5-4B0D-915B6A94E07C9879"
+			RelativePath = "pause\pause.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "pause\pause.png"/>
+		<FileInfo
+			ID = "57D58D2A-8C55-4172-ACC404ECD0E16787"
+			RelativePath = "comfirm\cancel.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "comfirm\cancel.png"/>
+		<FileInfo
+			ID = "58B17E62-6F51-46DD-A6AB86C65E697FAD"
+			RelativePath = "bong3.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "bong3.png"/>
+		<FileInfo
+			ID = "58C34EFF-6956-4E0D-A0D6EE9E89559AC6"
+			RelativePath = "ball\ball3.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "ball\ball3.jpg"/>
+		<FileInfo
+			ID = "593C2EB0-46FF-4DF8-AE6CD4F58887ACB9"
+			RelativePath = "icons\cancel.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\cancel.jpg"/>
+		<FileInfo
+			ID = "59791502-9DF2-481D-B6B30619CAB6EEA9"
+			RelativePath = "instruction\next1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\next1.png"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "5979E73C-FB3F-4826-A74B8255374AD569"
+			RelativePath = "error\cancel.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "error\cancel.png"/>
+		<FileInfo
+			ID = "59C8B43D-504E-4B4A-A5E7FE650E897940"
+			RelativePath = "game-over\score.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "game-over\score.png"/>
+		<FileInfo
+			ID = "5F0074B6-9899-44CE-906CD0C387FB07AA"
+			RelativePath = "Setting-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Setting-icon.png"/>
+		<FileInfo
+			ID = "62DCC465-AB18-48A7-810E14983DDF9200"
+			RelativePath = "setting\checkbox-selected.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\checkbox-selected.png"/>
+		<FileInfo
+			ID = "6684BCC0-D882-469F-BE3478399CDD8DC7"
+			RelativePath = "instruction-middle.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction-middle.gui"/>
+		<FileInfo
+			ID = "668BDCEA-D4E0-4BBA-977336F7E6AB075C"
+			RelativePath = "setting\option-selected.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\option-selected.png"/>
+		<FileInfo
+			ID = "6DCFA024-5D57-45B3-A4F7041F4F5BD34A"
+			RelativePath = "error\reload-clicked.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "error\reload-clicked.png"/>
+		<FileInfo
+			ID = "6E6370DA-32E7-40CF-8784354A0CD64183"
+			RelativePath = "start\play-clicked.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\play-clicked.png"/>
+		<FileInfo
+			ID = "6F594DD4-E0A0-4337-A2572BF69ACFDB97"
+			RelativePath = "start\setting--clicked.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\setting--clicked.png"/>
+		<FileInfo
+			ID = "7008BD3A-0422-4D3C-9F41CC91C5BEF3FA"
+			RelativePath = "images.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "images.jpg"/>
+		<FileInfo
+			ID = "724C1A5C-CDEC-4E08-996630009AB074EC"
+			RelativePath = "game-over\close.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "game-over\close.png"/>
+		<FileInfo
+			ID = "72D9E1CA-9209-48E0-BF732FC952E2B294"
+			RelativePath = "setting-text.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting-text.png"/>
+		<FileInfo
+			ID = "73CEC321-EE9F-431F-ADB6BC0D2B92B640"
+			RelativePath = "error\2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "error\2.png"/>
+		<FileInfo
+			ID = "7746818D-E62E-4397-A65B9A5A4E7EBF57"
+			RelativePath = "start\2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\2.png"/>
+		<FileInfo
+			ID = "78AE5934-BB51-41C9-B9771B0F97BD5DD1"
+			RelativePath = "2.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "2.jpg"/>
+		<FileInfo
+			ID = "79373945-B600-4AB4-9E00291C47136A6C"
+			RelativePath = "mute-icon.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "mute-icon.jpg"/>
+		<FileInfo
+			ID = "79FD4F36-D43D-4ED7-A180EC27D07E3AC2"
+			RelativePath = "ball\ball2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "ball\ball2.png"/>
+		<FileInfo
+			ID = "8043C0C7-F2FD-42C7-BBC163E761AB7A7E"
+			RelativePath = "Black.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Black.jpg"/>
+		<FileInfo
+			ID = "80C68500-88B6-4C18-B1AA0D8860AED9C8"
+			RelativePath = "main.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "main.gui"/>
+		<FileInfo
+			ID = "80D6D873-0BEA-4C52-B425BDB1DC9E5ECF"
+			RelativePath = "icons\pause-clicked.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\pause-clicked.png"/>
+		<FileInfo
+			ID = "811A38BA-5539-41C9-875BEA1144996692"
+			RelativePath = "play-main\mute.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "play-main\mute.png"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "81A377CB-A556-470A-83B0BE6068B1FA9D"
+			RelativePath = "icons\speaker2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\speaker2.png"/>
+		<FileInfo
+			ID = "82338522-8302-4214-86A6CF998A06A69B"
+			RelativePath = "icons\mute.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\mute.png"/>
+		<FileInfo
+			ID = "82794710-DBC6-4668-B25B13C242D4E54E"
+			RelativePath = "icons\go-back.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\go-back.png"/>
+		<FileInfo
+			ID = "82C2EC17-F036-4834-B9B5CDAE694A0056"
+			RelativePath = "volume.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "volume.png"/>
+		<FileInfo
+			ID = "842C2B72-2DA3-4E5A-86CF3A1FB0F75EA3"
+			RelativePath = "instruction\instruction-bg.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\instruction-bg.png"/>
+		<FileInfo
+			ID = "85DA5E69-3804-441D-876A6A2C634C1E2D"
+			RelativePath = "pause\replay.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "pause\replay.png"/>
+		<FileInfo
+			ID = "865A5597-263D-4228-A6A9753F7B2ACB31"
+			RelativePath = "icons\setting.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\setting.png"/>
+		<FileInfo
+			ID = "86E9019F-4DD2-4F5F-856945501FEE153F"
+			RelativePath = "icons\speaker.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\speaker.png"/>
+		<FileInfo
+			ID = "88838E7B-E0A5-429A-83E73BDC53A2C641"
+			RelativePath = "icons\menu-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\menu-icon.png"/>
+		<FileInfo
+			ID = "8ABBAE44-0070-4685-A879F026D28AB824"
+			RelativePath = "play-main\go-back-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "play-main\go-back-icon.png"/>
+		<FileInfo
+			ID = "8C3D516A-E06D-4773-9EC2258BA7DDAB7D"
+			RelativePath = "game setting.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "game setting.png"/>
+		<FileInfo
+			ID = "8E0E112C-D55A-4707-8E90E5E2F283DC59"
+			RelativePath = "icons\setting1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\setting1.png"/>
+		<FileInfo
+			ID = "8FFFA3F6-8B1D-4D3B-B078882478DF41D3"
+			RelativePath = "play-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "play-icon.png"/>
+		<FileInfo
+			ID = "908700ED-4056-4192-8A657FF78C66B500"
+			RelativePath = "backward-foreward\forward-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "backward-foreward\forward-icon.png"/>
+		<FileInfo
+			ID = "91B7D8D2-EC0A-4776-8220BC03EB7A6E2D"
+			RelativePath = "start\play-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\play-icon.png"/>
+		<FileInfo
+			ID = "92726C65-1418-4E03-9138DADC49B219A7"
+			RelativePath = "comfirm\confirm-Q.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "comfirm\confirm-Q.png"/>
+		<FileInfo
+			ID = "95E1BA24-78D0-4833-88295D8652D1B141"
+			RelativePath = "icons\loading.gif"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\loading.gif"/>
+		<FileInfo
+			ID = "96098D53-A9F4-4255-A9130CD387A33D16"
+			RelativePath = "Pause-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Pause-icon.png"/>
+		<FileInfo
+			ID = "972B7204-F95C-497F-B36082C99C19A91F"
+			RelativePath = "sure.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "sure.png"/>
+		<FileInfo
+			ID = "97B427DD-31F3-48F5-A79ADDFA5943E28F"
+			RelativePath = "error\reload.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "error\reload.png"/>
+		<FileInfo
+			ID = "9882FA65-A17E-44BD-B4E5DF519DA93953"
+			RelativePath = "green line tate.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "green line tate.jpg"/>
+		<FileInfo
+			ID = "98856B57-9156-40EF-994732E424A78D10"
+			RelativePath = "icons\go-back-clicked.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\go-back-clicked.png"/>
+		<FileInfo
+			ID = "98D80FD8-4071-4AB0-97F800CF2AD41FEA"
+			RelativePath = "game.autosave"
+			OriginalRoot = "$Project"
+			OriginalPath = "game.autosave"/>
+		<FileInfo
+			ID = "99B03C56-00DB-4C29-B8CEAB37DDB30A23"
+			RelativePath = "game-over.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "game-over.gui"/>
+		<FileInfo
+			ID = "9B7C2A67-BA96-4AE1-8A74487FF1E3F30E"
+			RelativePath = "icons\speaker-512.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\speaker-512.png"/>
+		<FileInfo
+			ID = "9BE4BC8A-301A-4265-A0913B4353251AB5"
+			RelativePath = "setting\chose ball type.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\chose ball type.png"/>
+		<FileInfo
+			ID = "A15461A9-7083-4C82-A05EC41B24CDE7F4"
+			RelativePath = "error\1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "error\1.png"/>
+		<FileInfo
+			ID = "A1A284C8-9F3D-4F68-830599B0C23D0015"
+			RelativePath = "images2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "images2.png"/>
+		<FileInfo
+			ID = "A1B661CE-2731-44E2-AA268A5AD9322BEC"
+			RelativePath = "icons\play-now.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\play-now.png"/>
+		<FileInfo
+			ID = "A4AFA80A-5E01-4930-9D2792C8A9AADAD0"
+			RelativePath = "play-main\speaker.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "play-main\speaker.png"/>
+		<FileInfo
+			ID = "A675BC7A-ED09-4B6E-83A602CDDAD415AF"
+			RelativePath = "icons\replay.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\replay.png"/>
+		<FileInfo
+			ID = "A8123196-609E-4BB9-BA0FDCD3B5D02CA0"
+			RelativePath = "icons\go-back-moveover.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\go-back-moveover.png"/>
+		<FileInfo
+			ID = "A9438742-170E-41C8-8760C16A84B09D90"
+			RelativePath = "setting\setting.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\setting.png"/>
+		<FileInfo
+			ID = "A9E09CC5-DF3C-4AC5-BE88034478D66F00"
+			RelativePath = "falling-balls.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "falling-balls.png"/>
+		<FileInfo
+			ID = "AA3453C1-F85A-463D-8F2AA0DD1E748C99"
+			RelativePath = "icons\next.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\next.png"/>
+		<FileInfo
+			ID = "AB269FA6-E0CA-401F-972123862290EE58"
+			RelativePath = "icons\pause3.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\pause3.png"/>
+		<FileInfo
+			ID = "B0412EF1-6123-41B8-AAED66FA35009A65"
+			RelativePath = "instruction-end.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction-end.gui"/>
+		<FileInfo
+			ID = "B2A2AC86-8748-4679-945B6E8B87B1731E"
+			RelativePath = "ball3.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "ball3.jpg"/>
+		<FileInfo
+			ID = "B62B8ACE-7D4C-4DEC-B174590327CE662B"
+			RelativePath = "comfirm\confirm.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "comfirm\confirm.png"/>
+		<FileInfo
+			ID = "B84F36E3-D53A-46FF-B85BFB4B840D22F4"
+			RelativePath = "ball2.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "ball2.jpg"/>
+		<FileInfo
+			ID = "B8F29F2A-DDCE-4C56-B37C49E942124FAA"
+			RelativePath = "play-main\main-new.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "play-main\main-new.gui"/>
+		<FileInfo
+			ID = "B9D83B4D-856F-4238-BDFEE9A8FFB17C6F"
+			RelativePath = "comfirm\ok.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "comfirm\ok.png"/>
+		<FileInfo
+			ID = "BEF399ED-27C6-4BD3-B6262C9FB8356CDE"
+			RelativePath = "play-main\pause.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "play-main\pause.png"/>
+		<FileInfo
+			ID = "C1F48470-135E-4592-B48234435B24FEAD"
+			RelativePath = "play-main\continue.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "play-main\continue.png"/>
+		<FileInfo
+			ID = "C31C0FCE-20CB-45CF-A7FCBB40E55FC34E"
+			RelativePath = "start\instruction.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\instruction.png"/>
+		<FileInfo
+			ID = "C3BAFADF-6D51-4B3C-AED37B6C8916E129"
+			RelativePath = "pause\continue.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "pause\continue.png"/>
+		<FileInfo
+			ID = "C48FEB2B-CB9D-4BA3-9E12488DF413770F"
+			RelativePath = "loading-screen.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "loading-screen.gui"/>
+		<FileInfo
+			ID = "C5154A0B-BCF6-401D-BBB98BFDEC819D84"
+			RelativePath = "back.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "back.png"/>
+		<FileInfo
+			ID = "C760951B-5DE4-49FA-933F8164F3F78F4D"
+			RelativePath = "icons\ok.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\ok.png"/>
+		<FileInfo
+			ID = "C88FFDF7-DDA1-484E-84B40FF99CBD7CE9"
+			RelativePath = "setting\option.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\option.png"/>
+		<FileInfo
+			ID = "C8CEFC4B-0956-44D3-BA3DC31D113BBA37"
+			RelativePath = "continue-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "continue-icon.png"/>
+		<FileInfo
+			ID = "CA27DB47-93B0-454F-93C84A84A04C28D0"
+			RelativePath = "ball\ball3.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "ball\ball3.png"/>
+		<FileInfo
+			ID = "CB710EB0-73FF-4425-81ED76BCDE724103"
+			RelativePath = "exit.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "exit.jpg"/>
+		<FileInfo
+			ID = "CCC5781F-6E8D-4668-A4531E822D21E18E"
+			RelativePath = "icons\cancel.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\cancel.png"/>
+		<FileInfo
+			ID = "CCF2F6F0-3EF8-498B-A826173641B59DFB"
+			RelativePath = "ball\ball2.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "ball\ball2.jpg"/>
+		<FileInfo
+			ID = "CD5AEDB4-551C-4858-BA3F72887DAF8ACE"
+			RelativePath = "cfb.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "cfb.png"/>
+		<FileInfo
+			ID = "CD6C4E24-67B0-4374-971C006D589F958A"
+			RelativePath = "pause.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "pause.png"/>
+		<FileInfo
+			ID = "CE2C8F2C-6D1D-4A0B-BBF996CA06FE5CE3"
+			RelativePath = "icons\close.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\close.png"/>
+		<FileInfo
+			ID = "CF1470F1-B1C6-4EF8-B5383108963BE69B"
+			RelativePath = "start\play.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\play.png"/>
+		<FileInfo
+			ID = "CF6DA910-7C97-4120-A96B96F5E5D7DB0C"
+			RelativePath = "start.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "start.gui"/>
+		<FileInfo
+			ID = "CF758D9A-D6ED-441B-A7E4C924F20C62D5"
+			RelativePath = "error-screen.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "error-screen.gui"/>
+		<FileInfo
+			ID = "D1032189-1C91-49E0-A426A9CCF38E438C"
+			RelativePath = "icons\btn-clicked.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\btn-clicked.png"/>
+		<FileInfo
+			ID = "D148DDFE-3FF4-4932-A86FA41AC55BC56C"
+			RelativePath = "game-over\game-over.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "game-over\game-over.png"/>
+		<FileInfo
+			ID = "D30A182F-B574-488A-B2BF92A29D33A990"
+			RelativePath = "ball\ball1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "ball\ball1.png"/>
+		<FileInfo
+			ID = "D43CD607-45C8-40CE-900111A3C6A551E6"
+			RelativePath = "instruction\main.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\main.png"/>
+		<FileInfo
+			ID = "D46B213E-65D8-4A39-BE291638C394EF70"
+			RelativePath = "ball\ball1.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "ball\ball1.jpg"/>
+		<FileInfo
+			ID = "D55B3C3A-B543-4DE6-B1FE22C76B3BB987"
+			RelativePath = "pause\close.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "pause\close.png"/>
+		<FileInfo
+			ID = "D62AD31A-DD6E-466D-9399AAEAD770C613"
+			RelativePath = "instruction\instruction4.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\instruction4.png"/>
+		<FileInfo
+			ID = "D77A38A8-8AF6-472C-917FE6DCB09FAB92"
+			RelativePath = "start\1a.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\1a.png"/>
+		<FileInfo
+			ID = "DA505657-D050-4BF4-869662D9B16BA7A2"
+			RelativePath = "icons\pause.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\pause.png"/>
+		<FileInfo
+			ID = "DADB8CBE-2C31-4096-8AF6A39DBEBA2CE2"
+			RelativePath = "volume.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "volume.jpg"/>
+		<FileInfo
+			ID = "DEF6A248-131E-4B92-A0D9E10EF90C7B15"
+			RelativePath = "icons\ok (2).png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\ok (2).png"/>
+		<FileInfo
+			ID = "DF93DF76-A162-4BB0-AC66BBDAA3EC6003"
+			RelativePath = "setting\mute.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\mute.png"/>
+		<FileInfo
+			ID = "E0F4C1A3-9321-460B-93575A4A9A144B62"
+			RelativePath = "setting\speaker.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\speaker.png"/>
+		<FileInfo
+			ID = "E108FDA8-48C9-46B2-B98AE7B0CB2827B4"
+			RelativePath = "icons\back.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\back.png"/>
+		<FileInfo
+			ID = "E5587058-1C90-4B75-951089332BF57E53"
+			RelativePath = "game-over\replay.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "game-over\replay.png"/>
+		<FileInfo
+			ID = "E9F9D82F-73B5-47DA-9BF54C78634B1489"
+			RelativePath = "bong4.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "bong4.png"/>
+		<FileInfo
+			ID = "EA33353E-3918-43DB-8CFFBE1CB98FC644"
+			RelativePath = "instruction-text.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction-text.png"/>
+		<FileInfo
+			ID = "EA83E5DB-5BB2-4036-A118067A8E670DCA"
+			RelativePath = "start\3.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\3.png"/>
+		<FileInfo
+			ID = "EBA7D17C-7FA1-45CD-B643B0E8103E77B4"
+			RelativePath = "start\instruction-icon.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\instruction-icon.png"/>
+		<FileInfo
+			ID = "ED9AADDE-3A3D-4288-97E5EF6A5719B630"
+			RelativePath = "popup-confirm.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "popup-confirm.png"/>
+		<FileInfo
+			ID = "EE7D0DDF-B2DE-4BE4-94762D71B95D5704"
+			RelativePath = "icons\go-back (2).png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\go-back (2).png"/>
+		<FileInfo
+			ID = "EF39219A-C05C-4DC8-9DAB538DC8F8CB4E"
+			RelativePath = "setting\checkbox.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "setting\checkbox.png"/>
+		<FileInfo
+			ID = "EFE8CC20-039A-46B8-BE566DAA94AA6475"
+			RelativePath = "instruction\back.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\back.png"/>
+		<FileInfo
+			ID = "F10B4E02-55BF-4B5F-871ADE5519C8BB97"
+			RelativePath = "icons\ui1.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\ui1.jpg"/>
+		<FileInfo
+			ID = "F1353ABB-ED2B-4057-889B691CEE0A8D4C"
+			RelativePath = "now.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "now.png"/>
+		<FileInfo
+			ID = "F2775ABD-E2EF-40AA-9171E9DF92235440"
+			RelativePath = "instruction.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction.gui"/>
+		<FileInfo
+			ID = "F3C0358F-8E2C-4C06-B6A165DE2935DBEC"
+			RelativePath = "instruction\next.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\next.png"/>
+		<FileInfo
+			ID = "F58E69D6-A187-4EF3-8819B561F878CF45"
+			RelativePath = "start\instruction-clicked..png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\instruction-clicked..png"/>
+		<FileInfo
+			ID = "F7FCE7BF-0675-4C5E-9C8A1C8F5F70B0FC"
+			RelativePath = "instruction\3.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\3.png"/>
+		<FileInfo
+			ID = "F8D13C4D-EE68-451B-81B6B4073420B5D0"
+			RelativePath = "start\3a.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\3a.png"/>
+		<FileInfo
+			ID = "FB840414-4AD0-4D79-8046A2EACA68F01B"
+			RelativePath = "instruction\instruction2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "instruction\instruction2.png"/>
+		<FileInfo
+			ID = "FBD90944-E483-438D-95CB14B2FC155828"
+			RelativePath = "vathung.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "vathung.png"/>
+		<FileInfo
+			ID = "FC3A93CE-E729-483D-AEE06D779A8EA432"
+			RelativePath = "game-over\star-good.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "game-over\star-good.png"/>
+		<FileInfo
+			ID = "FDE1834B-E835-47D1-B96EBD831EBC697F"
+			RelativePath = "start\1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "start\1.png"/>
+	</Files>
+</Catalogue>

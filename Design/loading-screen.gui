@@ -1,0 +1,154 @@
+<Screen
+	CID = "1916827668"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "437941812"
+			Type = "Rectangle"
+			X = "386"
+			Y = "96"
+			Width = "437"
+			Height = "508"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "236,233,216,0,16"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "None"
+			Border = "Solid"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "2"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "437926526"
+			Type = "Bitmap"
+			X = "388"
+			Y = "98"
+			Width = "435"
+			Height = "504"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			FileID = "7008BD3A-0422-4D3C-9F41CC91C5BEF3FA"
+			RootPath = "$Container"
+			Filename = "images.jpg"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"
+			SliceLeft = "0"
+			SliceRight = "0"
+			SliceTop = "0"
+			SliceBottom = "0"/>
+		<Element
+			CID = "437934202"
+			Type = "Bitmap"
+			X = "451"
+			Y = "116"
+			Width = "337"
+			Height = "52"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			FileID = "A9E09CC5-DF3C-4AC5-BE88034478D66F00"
+			RootPath = "$Container"
+			Filename = "falling-balls.png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"
+			SliceLeft = "0"
+			SliceRight = "0"
+			SliceTop = "0"
+			SliceBottom = "0"/>
+		<Element
+			CID = "1390674697"
+			Type = "Bitmap"
+			X = "567"
+			Y = "292"
+			Width = "73"
+			Height = "65"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			FileID = "51E4B1B5-397B-48F5-B1B7DDDCC2410389"
+			RootPath = "$Container"
+			Filename = "icons\loading_orange.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"
+			SliceLeft = "0"
+			SliceRight = "0"
+			SliceTop = "0"
+			SliceBottom = "0"/>
+		<Element
+			CID = "1910730110"
+			Type = "Bitmap"
+			X = "534"
+			Y = "383"
+			Width = "134"
+			Height = "28"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			FileID = "486442FA-AD85-45F4-87BCDF7A0C5ED50D"
+			RootPath = "$Container"
+			Filename = "icons\loading.png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"
+			SliceLeft = "0"
+			SliceRight = "0"
+			SliceTop = "0"
+			SliceBottom = "0"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1916812495"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
